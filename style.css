@@ -1,0 +1,12 @@
+h1 {
+    color: black;
+}
+
+*{
+    border:solid;
+}
+.social{
+    background-color: chartreuse;
+    display:flex;
+    justify-content: flex-end;
+}
